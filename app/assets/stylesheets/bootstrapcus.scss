@@ -1,2 +1,13 @@
 $body-bg:  #D2527F;
+$navbar-default-brand-color: #D2527F;
+$brand-info: #5C97BF;
+$jumbotron-bg: #F2F1EF;
 @import 'bootstrap';
+
+.center{
+    text-align: center;
+}
+
+#head{
+    color: #D2527F;
+}
